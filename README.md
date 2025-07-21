@@ -7,12 +7,12 @@ full-stack app with cluster map, image upload, full authentication and authoriza
 ## 🚀 Getting Started with YelpCamp
 
 1. [Install node](https://nodejs.org/en/) (in case you don't have it)
-2. open the terminal and run `git clone https://github.com/mazenadel19/YelpCamp.git`
+2. open the terminal and run `git clone https://github.com/mazenemam19/YelpCamp.git`
 3. `npm install -g nodemon` (in case you don't have it)
 4. cd YelpCamp
 5. `npm i`
 
-##### NB: to use yelpcamp in your local machine you will need a `.env` file that looks like this
+##### NB: to use yelpcamp in your local machine, you will need a `.env` file that looks like this
 
 ```
 MAPBOX_TOKEN=*your_map_token_here*
